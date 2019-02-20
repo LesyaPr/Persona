@@ -18,8 +18,6 @@ public class Persona {
      * ATRIBUTO: Edad de la persona
      */
     private int edad;
-    
-    
     /**
     * Constructor de la clase Persona
     * @param nombre

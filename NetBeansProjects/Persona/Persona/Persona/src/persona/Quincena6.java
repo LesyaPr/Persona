@@ -50,10 +50,19 @@ public class Quincena6 {
         persona2.setEdad(41); 
         
         /**
+         * Se crea un objeto de la clase Persona (persona2) con constructor vacio añadiéndole los parametros posteriormente
+         */
+        Persona persona3;
+        persona3 = new Persona();
+        persona3.setNombre("Pepe María");
+        persona3.setApellidos("Romero");
+        persona3.setDni("21979522W"); 
+        persona3.setEdad(41); 
+        /**
          * Se instancia al objeto trabajador1 con los valores correctos mediante los metodos setters
          */
         Trabajador trabajador1 =new Trabajador();
-        trabajador1.setNombre("Pepito");
+        trabajador1.setNombre("Pepito Rogelio");
         trabajador1.setApellidos("Romerales");
         trabajador1.setDni("12345243F");
         trabajador1.setEdad(25);
