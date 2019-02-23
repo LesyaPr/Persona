@@ -42,6 +42,9 @@ public class Quincena6 {
         Persona persona3;
         persona3 = new Persona("Laura", "García Perez", "44879652R", 20);
         
+        Persona persona4;
+        persona4 = new Persona("Leopoldo", "Rodri", "52R", 120);
+        
         /**
          * Se crea un objeto de la clase Persona (persona2) con constructor vacio añadiéndole los parametros posteriormente
          */
